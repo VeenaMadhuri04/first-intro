@@ -3,5 +3,6 @@
 void main ()
 {
 printf("Git and Github");
+printf("hello");
 }
 
